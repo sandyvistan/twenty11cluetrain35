@@ -1,7 +1,7 @@
 !SLIDE center
 
-# `Prepared by: 
+`Prepared by:`
 
-![Scicon](scicon.jpg) sandyvistan`
+![Scicon](scicon.jpg) `sandyvistan`
 
 
